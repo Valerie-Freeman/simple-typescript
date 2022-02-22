@@ -32,4 +32,5 @@
   - ReturnType\<T>
   - ThisType\<T>
 - Mapped types
+  - Pick\<T, K>
 - Conditional types
